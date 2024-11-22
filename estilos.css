@@ -1,0 +1,91 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+
+#productos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+
+    background: #f5f5f5;
+       border-radius: 10px;
+}
+
+
+.producto-card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    max-width: 350px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #f9f9f9; /* Color suave para fondo de tarjeta */
+}
+
+.producto-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+    max-height: 300px; /* Controlar la altura de la imagen */
+    object-fit: contain; /* Mantener proporción de la imagen */
+    background-color: #ffffff; /* Fondo blanco para dar un toque de limpieza */
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #2a9d8f; /* Color que armonice con una estética de dermocosmética */
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #606060; /* Texto en gris oscuro para suavizar el contraste */
+}
+
+.btn-primary {
+    background-color: #2a9d8f;
+    border-color: #2a9d8f;
+    font-weight: 600;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #21867a; /* Tonalidad más oscura en hover */
+}
+
+.btn-danger {
+    margin: 10px;
+    
+}
+
+
+#carritoBtn {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Espacio entre el ícono y el número de productos */
+}
+
+#cantidad-productos-carrito {
+    font-weight: bold;
+    color: white; /* Puedes cambiar el color a lo que prefieras */
+}

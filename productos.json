@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre": "Serum Niacinamida La Roche Posay",
+        "descripcion": "Es un sérum concentrado con Melasyl, molécula patentada con acción despigmentante. Corrige manchas, marcas y problemas de hiperpigmentación, unificando el tono. Aporta luminosidad y calma la piel gracias a la Niacinamida.",
+        "precio": 40000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/niacinamide/pure-niacinamide-10-serum/3337875791885_1-1.jpg",
+        "categoria": "Serums",
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "nombre": "Crema La Roche-Posay Anthelios UV Mune 400 Fluido Invisible Spf 50+",
+        "descripcion": "Protector solar con alta protección contra rayos UVB, gracias al filtro Mexoryl 400. Tecnología innovadora, con más de 10 años de investigación, es única en el mercado. Protección contra los rayos UV más dañinos, los 365 días del año.",
+        "precio": 49000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/anthelios/anthelios-uvmune-400-fluido-invisible-fps-50-plus-con-color/anthelios-uvmune-400-fluido-invisible-fps-50-plus-con-color-packshot-frnt.png",
+        "categoria": "Protectores Solares",
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "nombre": "Effaclar Gel Moussant Purifiant",
+        "descripcion": "Gel limpiador facial que elimina las impurezas y el exceso de sebo, dejando la piel limpia y fresca sin resecarla. Ideal para pieles grasas y con tendencia acneica.",
+        "precio": 32000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/effaclar/effaclar-cleansing-foaming-gel/la-roche-posay-productpage-acne-effaclar-cleansing-foaming-gel-400ml-3337872411991-zoom1-front.png",
+        "categoria": "Limpieza Facial",
+        "stock": 3
+    },
+    {
+        "id": 4,
+        "nombre": "Toleriane Sensitive Crema Hidratante",
+        "descripcion": "Crema hidratante con prebióticos que ayudan a reducir la sensibilidad de la piel, ofreciendo 48 horas de hidratación y fortaleciendo la barrera cutánea.",
+        "precio": 45000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/toleriane/dermo-cleanser/la-roche-posay-productpage-sensitive-allergic-toleriane-dermo-cleanser-200ml-3433422406599-front.png",
+        "categoria": "Cremas hidratantes",
+        "stock": 3
+    },
+    {
+        "id": 5,
+        "nombre": "Redermic R Anti-Age Concentrado",
+        "descripcion": "Sérum concentrado anti-envejecimiento con retinol, ayuda a reducir visiblemente las arrugas, las manchas y a mejorar la textura de la piel.",
+        "precio": 78000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/retinol/b3-serum/larocheposay-product-antiaging-retinol-b3serum-30ml-3337878694469-fss-1.png",
+        "categoria": "Serums",
+        "stock": 0
+    },
+    {
+        "id": 6,
+        "nombre": "Hyalu B5 Sérum Reparador",
+        "descripcion": "Sérum con ácido hialurónico y vitamina B5 que ayuda a rellenar la piel, reducir arrugas y mejorar la elasticidad para un aspecto más radiante.",
+        "precio": 85000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/hyalu-b5/anti-aging-hyalu-b5-serum/larocheposay-product-antiaging-hyalub5-serum-30ml-3337875583626-fss-1-front.png",
+        "categoria": "Serums",
+        "stock": 3
+    },
+    {
+        "id": 7,
+        "nombre": "Cicaplast Baume B5",
+        "descripcion": "Bálsamo multi-reparador que calma, protege y repara la piel irritada. Ideal para pieles sensibles y dañadas.",
+        "precio": 29000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/cicaplast/cicaplast-baume-b5-plus/cicaplast-1.png",
+        "categoria": "Cremas hidratantes",
+        "stock": 3
+    },
+    {
+        "id": 8,
+        "nombre": "Pure Vitamin C10 Sérum",
+        "descripcion": "Sérum con vitamina C pura, que aporta luminosidad y mejora la textura de la piel, ideal para combatir signos de fatiga y envejecimiento.",
+        "precio": 87000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/redermic/c10/la-roche-posay-productpage-anti-aging-pure-vitamin-c10-30ml-3337875660570-front.png",
+        "categoria": "Serums",
+        "stock": 3
+    },
+    {
+        "id": 9,
+        "nombre": "Anthelios Shaka Fluido SPF 50+",
+        "descripcion": "Protector solar ultraligero y resistente al agua, ideal para todo tipo de piel, incluyendo la piel sensible. Proporciona una alta protección contra los rayos UVA y UVB.",
+        "precio": 52000,
+        "imagen": "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/anthelios/anti-shine-fresh-mist/la-roche-posay-productpage-sun-anthelios-mist-spf50-75ml-3337875549530-front.png",
+        "categoria": "Serums",
+        "stock": 3
+    }
+]
